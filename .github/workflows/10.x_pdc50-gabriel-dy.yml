@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-gabriel-dy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EACA08133D64B2FA8DC35487245CE87 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1BE89B5E9AD40C8B88AB78C092680A0 }}
           package: .
